@@ -1,0 +1,71 @@
+/* 5. Utilities */
+
+/* Breadcrumbs */ 
+
+/* Responsively Better Height Start  */
+.rg-height { /* border:7px solid yellow; background-color:red;*/  min-height: 100vh; height: auto;transition:all 0.25s linear 0s;}
+@media only screen and (max-height:480px){
+.rg-height {min-height:480px;height: auto;}
+}
+@media only screen and (min-height:700px){
+.rg-height {min-height:700px;height: auto;}
+}
+@media only screen and (min-width:992px){
+.rg-height {min-height:100vh; height: auto;}
+}
+@media only screen and (min-height:1200px){
+.rg-height {min-height:1200px; height: auto;}
+}
+/* Responsively Better Height End  */
+
+/* Full Screen Height Start */
+
+.fs-height {min-height: 100vh;}
+@media only screen and (max-height:480px){
+.fs-height {min-height:480px;height: auto;}
+}
+
+/* Full Screen Height End */
+
+
+/* List Block Layouts */
+
+.list-block {display:grid;grid-gap: 1rem;}
+
+.list-block.xs1 {grid-template-columns: repeat(1, 1fr);}
+.list-block.xs2 {grid-template-columns: repeat(2, 1fr);}
+.list-block.xs3 {grid-template-columns: repeat(3, 1fr);}
+.list-block.xs4 {grid-template-columns: repeat(4, 1fr);}
+.list-block.xs5 {grid-template-columns: repeat(5, 1fr);}
+
+@media only screen and (min-width:576px) {
+.list-block.sm1 {grid-template-columns: repeat(1, 1fr);}
+.list-block.sm2 {grid-template-columns: repeat(2, 1fr);}
+.list-block.sm3 {grid-template-columns: repeat(3, 1fr);}
+.list-block.sm4 {grid-template-columns: repeat(4, 1fr);}	
+.list-block.sm5 {grid-template-columns: repeat(5, 1fr);}	
+}
+
+@media only screen and (min-width:768px) {
+.list-block.md1 {grid-template-columns: repeat(1, 1fr);}
+.list-block.md2 {grid-template-columns: repeat(2, 1fr);}
+.list-block.md3 {grid-template-columns: repeat(3, 1fr);}
+.list-block.md4 {grid-template-columns: repeat(4, 1fr);}
+.list-block.md5 {grid-template-columns: repeat(5, 1fr);}
+}
+
+@media only screen and (min-width:992px) {
+.list-block.lg1 {grid-template-columns: repeat(1, 1fr);}
+.list-block.lg2 {grid-template-columns: repeat(2, 1fr);}
+.list-block.lg3 {grid-template-columns: repeat(3, 1fr);}
+.list-block.lg4 {grid-template-columns: repeat(4, 1fr);}
+.list-block.lg5 {grid-template-columns: repeat(5, 1fr);}
+}
+
+@media only screen and (min-width:1200px) {
+.list-block.xl1 {grid-template-columns: repeat(1, 1fr);}
+.list-block.xl2 {grid-template-columns: repeat(2, 1fr);}
+.list-block.xl3 {grid-template-columns: repeat(3, 1fr);}
+.list-block.xl4 {grid-template-columns: repeat(4, 1fr);}
+.list-block.xl5 {grid-template-columns: repeat(5, 1fr);}
+}

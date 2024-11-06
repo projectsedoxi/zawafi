@@ -1,0 +1,20 @@
+[12-Jun-2024 10:17:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_posts() in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php on line 16
+[11-Sep-2024 05:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_posts() in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php on line 16
+[11-Sep-2024 07:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_posts() in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php on line 16
+[02-Oct-2024 00:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_posts() in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php on line 16
+[03-Oct-2024 04:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_posts() in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/themes/zawafi-child/index.php on line 16

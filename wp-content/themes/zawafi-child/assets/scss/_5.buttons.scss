@@ -1,0 +1,49 @@
+/* Buttons */
+
+
+
+.btn-wrapper {padding-bottom:0;}
+
+.btn {
+  padding: 0.7rem 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: .75rem;
+  letter-spacing: .1rem;
+  line-height: 1.5;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  border: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: $brand-color2; 
+  color: #333;
+}
+ 
+.btn1 {
+  background-color:$brand-color1; 
+  &:hover {
+    background-color:$brand-color2; 
+    color: #333;
+  } 
+}
+
+
+@media only screen and (min-width: 768px) {
+  
+.btn1 {
+   font-size: .80rem;
+   padding: .70rem 1.3rem;
+   } 
+}
+
+@media only screen and (min-width: 992px) {
+  
+.btn1 {
+   padding: .60rem 1.15rem;
+   } 
+}

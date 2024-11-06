@@ -1,0 +1,215 @@
+@import "../scss/2.variables";
+/* 3. Types: Start */
+
+// Brand Font:1 Integration: Start
+@font-face {
+  font-family: 'romelio';
+  src: url('../fonts/romelio-webfont.woff2') format('woff2'),
+    url('../fonts/romelio-webfont.woff') format('woff');
+  font-weight: 400;
+}
+
+// Brand Font:1 Integration: End
+
+
+// Brand Font:2 Integration: Start
+@font-face {
+  font-family: 'poppins';
+  src: url('../fonts/poppins-regular.woff2') format('woff2'),
+    url('../fonts/poppins-regular.woff') format('woff');
+  font-weight: 400;
+}
+
+/* medium */
+@font-face {
+  font-family: 'poppins';
+  src: url('../fonts/poppins-medium.woff2') format('woff2'),
+    url('../fonts/poppins-medium.woff') format('woff');
+  font-weight: 500;
+}
+
+// Brand Font:2 Integration: End
+
+
+
+
+
+
+
+
+
+html {
+  font-family: 'poppins', Arial, Helvetica, sans-serif;
+}
+
+/* 3. Types: Start */
+
+.h1,
+h1 {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+  color: $brand-color1;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 0;
+  font-family: 'romelio';
+}
+
+.h2,
+h2 {
+  font-size: 1.35rem;
+  color: $brand-color1;
+  margin: 0 0 1.5rem 0;
+  padding: 0;
+  font-family: 'romelio';
+  font-weight: 100;
+
+  &__second-color {
+    color: $brand-color2;
+  }
+}
+
+.h3,
+h3 {
+  font-size: 1.35rem;
+  color: $heading-color;
+  margin: 0 0 1.5rem 0;
+  padding: 0;
+}
+
+.h4,
+h4 {
+  font-size: 1.15rem;
+  color: $heading-color;
+  margin: 0;
+  padding: 0;
+}
+
+.h5,
+h5 {
+  font-size: 1.3rem;
+  color: $heading-color;
+  margin: 0;
+  padding: 0;
+}
+
+.h6,
+h6 {
+  font-size: 1rem;
+  color: $heading-color;
+  margin: 0;
+  padding: 0;
+}
+
+.p,
+p {
+  font-size: 0.9rem;
+  line-height: 1.35em;
+  color: #555;
+  margin: 0 0 1.5rem 0;
+  padding: 0;
+}
+
+li {
+  color: $heading-color;
+  font-size: 0.9rem;
+}
+
+@media only screen and (min-width: 768px) {
+
+  .h1,
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .h2,
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  .h3,
+  h3 {
+    font-size: 2.3rem;
+  }
+
+  .h4,
+  h4 {
+    font-size: 2rem;
+  }
+
+  .h5,
+  h5 {
+    font-size: 1.7rem;
+  }
+
+  .h6,
+  h6 {
+    font-size: 1.5rem;
+  }
+
+  .p,
+  p {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: .025rem;
+  }
+
+  li {
+    font-size: .9rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+
+  .h1,
+  h1 {
+    font-size: 2.15rem;
+  }
+
+  .h2,
+  h2 {
+    font-size: 1.65rem;
+  }
+
+  .h3,
+  h3 {
+    font-size: 1.20rem;
+    margin: 0 0 2rem 0;
+  }
+
+  .h4,
+  h4 {
+    font-size: 1.25rem;
+  }
+
+  .h5,
+  h5 {
+    font-size: 1.15rem;
+  }
+
+  .h6,
+  h6 {
+    font-size: 1rem;
+  }
+
+  .p,
+  p {
+    margin: 0 0 1.70rem 0;
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  li {
+    font-size: .9rem;
+  }
+}
+
+/* Alignments  */
+
+.text-center {
+  text-align: center;
+}
+
+/* 3. Types: End */

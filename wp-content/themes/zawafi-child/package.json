@@ -1,0 +1,17 @@
+{
+  "name": "zawafi-child",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch assets/scss -o assets/css --output-style compressed --source-map-embed true"  
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "onchange": "^7.1.0",
+    "watch": "^1.0.2"
+  }
+}

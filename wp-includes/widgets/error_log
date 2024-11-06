@@ -1,0 +1,12 @@
+[04-Oct-2024 07:20:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/zawafico/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Oct-2024 22:10:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/zawafico/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2024 16:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/zawafico/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

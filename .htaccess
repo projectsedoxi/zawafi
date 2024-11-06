@@ -1,0 +1,64 @@
+
+RewriteOptions inherit
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+Redirect 301 /ae/interior-designing /dubai/interior-design-company
+Redirect 301 /ae/conference-room-interior /dubai/conference-room-interior
+Redirect 301 /ae/restaurant-interior/ /dubai/restaurant-interior
+Redirect 301 /ae/office-interior/ /dubai/office-interior
+Redirect 301 /ae/commercial-interior /dubai/commercial-interior-company
+Redirect 301 /ae/kitchen-interior /dubai/kitchen-interior
+Redirect 301 /ae/bathroom-interior /dubai/bathroom-interior
+Redirect 301 /ae/living-room-interior /dubai/living-room-interior
+Redirect 301 /ae/bedroom-interior /dubai/bedroom-interior
+Redirect 301 /ae/home-interior /dubai/home-interior-company
+Redirect 301 /ae/masonry-work/ /dubai/masonry-work
+Redirect 301 /ae/partition-work /dubai/partition-work
+Redirect 301 /ae/ceiling-work /dubai/ceiling-work
+Redirect 301 /ae/flooring-work /dubai/flooring-work
+Redirect 301 /ae/home-maintenance /dubai/home-maintenance
+Redirect 301 /ae/apartment-painting /dubai/apartment-painting
+Redirect 301 /ae/painting-works /dubai/painting-company
+Redirect 301 /ae/office-painting /dubai/office-painting
+Redirect 301 /ae/villa-painting /dubai/villa-painting
+Redirect 301 /ae/home-painting /dubai/home-painting
+Redirect 301 /ae/maintenance-service /dubai/maintenance-company
+Redirect 301 /ae/retail-fit-out /dubai/retail-fitout
+Redirect 301 /ae/residential-fit-out /dubai/residential-fitout-company
+Redirect 301 /ae/restaurant-fit-out /dubai/restaurant-fitout
+Redirect 301 /ae/office-fit-out /dubai/office-fitout
+Redirect 301 /ae/commercial-fit-out /dubai/commercial-fitout-company
+Redirect 301 /ae/fit-out-service /dubai/fitout-company
+Redirect 301 /ae/joinery-work/ /dubai/joinery-company
+Redirect 301 /ae/tiles-work/ /dubai/tiles-work
+Redirect 301 /ae/ac-repair /dubai/ac-repair
+Redirect 301 /ae/mep-service /dubai/mep-service
+Redirect 301 /ae/hvac-maintenance /dubai/hvac-maintenance
+Redirect 301 /ae/electrical-maintenance /dubai/electrical-work
+Redirect 301 /ae/marble-installation /dubai/marble-installation
+Redirect 301 /ae/villa-maintenance /dubai/villa-maintenance
+Redirect 301 /ae/cleaning-service /dubai/cleaning-service-company
+Redirect 301 /ae/carpet-cleaning /dubai/carpet-cleaning
+Redirect 301 /ae/water-tank-cleaning /dubai/water-tank-cleaning
+Redirect 301 /ae/ac-duct-cleaning /dubai/ac-duct-cleaning
+Redirect 301 /ae/kitchen-hood-cleaning /dubai/kitchen-hood-cleaning
+Redirect 301 /ae/renovation-work /dubai/renovation-company
+Redirect 301 /ae/villa-renovation /dubai/villa-renovation
+Redirect 301 /ae/bathroom-renovation /dubai/bathroom-renovation
+Redirect 301 /ae/kitchen-renovation /dubai/kitchen-renovation
+Redirect 301 /ae/home-renovation /dubai/home-renovation
+Redirect 301 /ae/flooring-works /dubai/flooring-work

@@ -1,0 +1,170 @@
+[12-Jun-2024 10:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[12-Jun-2024 10:17:06 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[12-Jun-2024 10:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[12-Jun-2024 10:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 87
+[12-Jun-2024 10:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php:368
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 368
+[12-Jun-2024 10:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[12-Jun-2024 10:17:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[12-Jun-2024 10:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[12-Jun-2024 10:17:12 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[12-Jun-2024 10:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[11-Sep-2024 05:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[11-Sep-2024 05:18:30 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[11-Sep-2024 05:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[11-Sep-2024 05:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 87
+[11-Sep-2024 05:18:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php:368
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 368
+[11-Sep-2024 05:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[11-Sep-2024 05:18:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[11-Sep-2024 05:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[11-Sep-2024 05:18:38 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[11-Sep-2024 05:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[11-Sep-2024 07:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[11-Sep-2024 07:26:17 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[11-Sep-2024 07:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[11-Sep-2024 07:26:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 87
+[11-Sep-2024 07:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php:368
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 368
+[11-Sep-2024 07:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[11-Sep-2024 07:26:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[11-Sep-2024 07:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[11-Sep-2024 07:26:24 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[11-Sep-2024 07:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[02-Oct-2024 00:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[02-Oct-2024 00:19:46 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[02-Oct-2024 00:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[02-Oct-2024 00:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 87
+[02-Oct-2024 00:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php:368
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 368
+[02-Oct-2024 00:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[02-Oct-2024 00:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[02-Oct-2024 00:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[02-Oct-2024 00:19:48 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[02-Oct-2024 00:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[03-Oct-2024 04:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[03-Oct-2024 04:58:32 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[03-Oct-2024 04:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[03-Oct-2024 04:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 87
+[03-Oct-2024 04:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php:368
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 368
+[03-Oct-2024 04:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[03-Oct-2024 04:58:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[03-Oct-2024 04:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[03-Oct-2024 04:58:37 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[03-Oct-2024 04:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

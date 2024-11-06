@@ -1,0 +1,35 @@
+[12-Jun-2024 10:17:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[12-Jun-2024 10:17:18 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[12-Jun-2024 10:17:18 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php): failed to open stream: No such file or directory in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[12-Jun-2024 10:17:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[11-Sep-2024 05:18:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[11-Sep-2024 05:18:44 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[11-Sep-2024 05:18:44 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php): failed to open stream: No such file or directory in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[11-Sep-2024 05:18:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[11-Sep-2024 07:26:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[11-Sep-2024 07:26:31 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[11-Sep-2024 07:26:31 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php): failed to open stream: No such file or directory in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[11-Sep-2024 07:26:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[02-Oct-2024 00:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[02-Oct-2024 00:19:54 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[02-Oct-2024 00:19:54 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php): failed to open stream: No such file or directory in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[02-Oct-2024 00:19:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[03-Oct-2024 04:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/script-loader.php on line 3
+[03-Oct-2024 04:58:40 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[03-Oct-2024 04:58:40 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php): failed to open stream: No such file or directory in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
+[03-Oct-2024 04:58:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/swv/schema-holder.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zawafico/public_html/wp-content/plugins/contact-form-7/includes/swv/swv.php on line 6
