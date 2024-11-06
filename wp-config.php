@@ -46,16 +46,16 @@ define( 'DB_COLLATE', '' );
 else {
 
 	/** The name of the database for WordPress */
-	define('DB_NAME', 'zawafico_live_databasev1'); 
+	define('DB_NAME', 'zawafi_aws'); 
 	
 	/** MySQL database username */
-	define('DB_USER', 'zawafico_admin');
+	define('DB_USER', 'time_user');
 	
 	/** MySQL database password */
-	define('DB_PASSWORD', 'ZwFi-DB+wU*fif1FxKLO@sWE*');
+	define('DB_PASSWORD', 'z$J$1M5@4Wy4jyM$');
 	
 	/** MySQL hostname */
-	define('DB_HOST', 'localhost');
+	define('DB_HOST', 'edoxi.ct6o0oiuq4by.me-central-1.rds.amazonaws.com');
 	
 	/** Database Charset to use in creating database tables. */
 	define('DB_CHARSET', 'utf8mb4');
